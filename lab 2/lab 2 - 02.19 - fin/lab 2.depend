@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1329278167 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.14\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.14\loadmodel.h
+	<string>
+	<vector>
+
+1329330208 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.14\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329330208 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.15\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.15\loadmodel.h
+	<string>
+	<vector>
+
+1329330208 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.16\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.16\loadmodel.h
+	<string>
+	<vector>
+
+1329860857 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.16\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+
+1329786341 f:\code\computer graphics ii\lab 2\lab 2 - 02.16\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1329760567 f:\code\computer graphics ii\lab 2\lab 2 - 02.16\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1329760531 f:\code\computer graphics ii\lab 2\lab 2 - 02.16\edgetable.h
+	<vector>
+
+1329860842 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.16\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1329330208 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.17\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.17\loadmodel.h
+	<string>
+	<vector>
+
+1329967305 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.17\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1329760567 f:\code\computer graphics ii\lab 2\lab 2 - 02.17\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1329760531 f:\code\computer graphics ii\lab 2\lab 2 - 02.17\edgetable.h
+	<vector>
+
+1329928167 f:\code\computer graphics ii\lab 2\lab 2 - 02.17\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1329969041 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.17\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1329330208 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.18\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.18\loadmodel.h
+	<string>
+	<vector>
+
+1330046510 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.18\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1329978500 f:\code\computer graphics ii\lab 2\lab 2 - 02.18\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1329978481 f:\code\computer graphics ii\lab 2\lab 2 - 02.18\edgetable.h
+	<vector>
+
+1329928167 f:\code\computer graphics ii\lab 2\lab 2 - 02.18\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1329983913 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.18\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1330046637 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.19\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329247720 f:\code\computer graphics ii\lab 2\lab 2 - 02.19\loadmodel.h
+	<string>
+	<vector>
+
+1330049777 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.19\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1329978500 f:\code\computer graphics ii\lab 2\lab 2 - 02.19\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1329978481 f:\code\computer graphics ii\lab 2\lab 2 - 02.19\edgetable.h
+	<vector>
+
+1329928167 f:\code\computer graphics ii\lab 2\lab 2 - 02.19\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1330049847 source:f:\code\computer graphics ii\lab 2\lab 2 - 02.19\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+

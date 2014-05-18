@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1331266807 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330832088 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\loadmodel.h
+	<string>
+	<vector>
+
+1331364294 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331263001 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331262971 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\edgetable.h
+	<vector>
+
+1331364234 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1331364325 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331266807 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330832088 f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\loadmodel.h
+	<string>
+	<vector>
+
+1331415806 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331416710 f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1331400412 f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331400411 f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\edgetable.h
+	<vector>
+
+1331415826 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 3.10\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331270407 source:d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\loadmodel.h
+	<string>
+	<vector>
+
+1333375842 source:d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331530330 d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1331404012 d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\edgetable.h
+	<vector>
+
+1333375981 source:d:\gw cs graduate\2012 spring\cs 6554 computer graphics ii\lab3\lab 3 - phong - 3.10\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1334255576 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\loadmodel.h
+	<string>
+	<vector>
+
+1333607141 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331530330 f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1331404012 f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\edgetable.h
+	<vector>
+
+1334863544 source:f:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1334255576 source:d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\loadmodel.h
+	<string>
+	<vector>
+
+1362940204 source:d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331404012 d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\edgetable.h
+	<vector>
+
+1331530330 d:\code\computer graphics ii\lab 3\lab 3 - phong - 4.05\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+

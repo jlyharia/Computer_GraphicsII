@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1331185960 source:d:\code\computer graphics ii\lab 3\lab 3 - constant\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 d:\code\computer graphics ii\lab 3\lab 3 - constant\loadmodel.h
+	<string>
+	<vector>
+
+1362943826 source:d:\code\computer graphics ii\lab 3\lab 3 - constant\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331528419 d:\code\computer graphics ii\lab 3\lab 3 - constant\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1330054012 d:\code\computer graphics ii\lab 3\lab 3 - constant\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1330054013 d:\code\computer graphics ii\lab 3\lab 3 - constant\edgetable.h
+	<vector>
+
+1362943404 source:d:\code\computer graphics ii\lab 3\lab 3 - constant\main.cpp
+	"loadModel.h"
+	"SCANLINE.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+

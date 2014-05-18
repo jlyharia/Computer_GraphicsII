@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1331270407 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\loadmodel.h
+	<string>
+	<vector>
+
+1333343630 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331530114 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331530133 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\edgetable.h
+	<vector>
+
+1331528442 f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1333038659 source:f:\code\computer graphics ii\lab 3\lab 3 - gouraud - 3.08\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+

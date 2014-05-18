@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1335902230 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\loadmodel.cpp
+	"calculus.h"
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1335902203 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\loadmodel.h
+	<string>
+	<vector>
+
+1333759819 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\textureloader.cpp
+	"textureloader.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1333604434 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\textureloader.h
+	<vector>
+
+1334804549 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331404012 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\edgetable.h
+	<vector>
+
+1335902304 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1335903316 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\perlinnoisetexture.cpp
+	<iostream>
+	<cmath>
+
+1334885248 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+	"PerlinNoiseTexture.h"
+
+1334781141 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\perlinnoisetexture.h
+
+1335886109 source:f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\calculus.cpp
+	"calculus.h"
+	<iostream>
+	<vector>
+	<cmath>
+
+1335886070 f:\code\computer graphics ii\lab 5\lab 5 - perlin noise - 4.18\calculus.h
+	<iostream>
+	<vector>
+

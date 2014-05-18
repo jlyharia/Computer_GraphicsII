@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1328170531 source:f:\code\computer graphics ii\new_lab1\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1328476606 source:f:\code\computer graphics ii\new_lab1\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1328476503 f:\code\computer graphics ii\new_lab1\loadmodel.h
+	<string>
+	<vector>
+
+1328494044 source:f:\code\computer graphics ii\new_lab1 - 02.05\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1328476503 f:\code\computer graphics ii\new_lab1 - 02.05\loadmodel.h
+	<string>
+	<vector>
+
+1328489373 source:f:\code\computer graphics ii\new_lab1 - 02.05\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1328545738 source:f:\code\computer graphics ii\new_lab1 - 02.06\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1328544412 f:\code\computer graphics ii\new_lab1 - 02.06\loadmodel.h
+	<string>
+	<vector>
+
+1328544347 source:f:\code\computer graphics ii\new_lab1 - 02.06\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1328579044 source:f:\code\computer graphics ii\new_lab1 - 02.07\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1328576865 f:\code\computer graphics ii\new_lab1 - 02.07\loadmodel.h
+	<string>
+	<vector>
+
+1328579096 source:f:\code\computer graphics ii\new_lab1 - 02.07\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+	<iomanip>
+
+1328763869 source:f:\code\computer graphics ii\new_lab1 - 02.08\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+	<iomanip>
+
+1328601867 f:\code\computer graphics ii\new_lab1 - 02.08\loadmodel.h
+	<string>
+	<vector>
+
+1328766786 source:f:\code\computer graphics ii\new_lab1 - 02.08\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1328768174 source:f:\code\computer graphics ii\new_lab1 - 02.09\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1328601867 f:\code\computer graphics ii\new_lab1 - 02.09\loadmodel.h
+	<string>
+	<vector>
+
+1328768153 source:f:\code\computer graphics ii\new_lab1 - 02.09\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<math.h>
+	<iomanip>
+
+1329169280 source:f:\code\computer graphics ii\new_lab1 - 02.11\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+
+1329162787 f:\code\computer graphics ii\new_lab1 - 02.11\loadmodel.h
+	<string>
+	<vector>
+
+1329169344 source:f:\code\computer graphics ii\new_lab1 - 02.11\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329204752 source:f:\code\computer graphics ii\lab 2\new_lab1 - 02.11 - fin\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1329162787 f:\code\computer graphics ii\lab 2\new_lab1 - 02.11 - fin\loadmodel.h
+	<string>
+	<vector>
+
+1329203784 source:f:\code\computer graphics ii\lab 2\new_lab1 - 02.11 - fin\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+

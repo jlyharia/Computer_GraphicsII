@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1331270407 source:f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\loadmodel.h
+	<string>
+	<vector>
+
+1333607141 source:f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+
+1331530330 f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1331404012 f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\edgetable.h
+	<vector>
+
+1333643405 source:f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1333643349 source:f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\textureloader.cpp
+	"textureloader.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1333604434 f:\code\computer graphics ii\lab 4\lab 4 - phong - 4.05\textureloader.h
+	<vector>
+
+1331270407 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330835688 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\loadmodel.h
+	<string>
+	<vector>
+
+1333761877 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331404012 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\edgetable.h
+	<vector>
+
+1333757517 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1333759819 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\textureloader.cpp
+	"textureloader.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1333604434 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\textureloader.h
+	<vector>
+
+1333762337 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.05\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+	"textureloader.h"
+
+1334091089 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1334091128 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\loadmodel.h
+	<string>
+	<vector>
+
+1334090855 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1331404012 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\edgetable.h
+	<vector>
+
+1334090997 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1333759819 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\textureloader.cpp
+	"textureloader.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1333604434 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\textureloader.h
+	<vector>
+
+1334086117 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.09\scanline.cpp
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<time.h>
+	<fstream>
+	"textureloader.h"
+
+1334419677 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\main.cpp
+	"loadModel.h"
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	"TABLE.h"
+	"SCANLINE.h"
+
+1334350502 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\loadmodel.h
+	<string>
+	<vector>
+
+1331404012 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\table.h
+	<iostream>
+	<vector>
+	"EDGETABLE.h"
+
+1331404011 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\edgetable.h
+	<vector>
+
+1335850930 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\scanline.h
+	<iostream>
+	<vector>
+	"TABLE.h"
+
+1334467535 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\textureloader.cpp
+	"textureloader.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1333604434 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\textureloader.h
+	<vector>
+
+1335851664 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1335852867 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\scanline.cpp
+	"calculus.h"
+	"SCANLINE.h"
+	"TABLE.h"
+	<vector>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<fstream>
+	"textureloader.h"
+
+1335850885 source:f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\calculus.cpp
+	"calculus.h"
+	<iostream>
+	<vector>
+
+1335850708 f:\code\computer graphics ii\lab 4\lab 4 - texture - 4.12\calculus.h
+	<iostream>
+	<vector>
+
